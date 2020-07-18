@@ -1,3 +1,3 @@
 function holamundo (){
-    alert("profe lo logre ...s"); 
+    alert("profe lo logre ..."); 
 }
