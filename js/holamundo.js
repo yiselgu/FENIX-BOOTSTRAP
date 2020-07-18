@@ -1,3 +1,3 @@
 function holamundo (){
-    alert("Hola mundo"); 
+    alert("Debo linkiar al login de la APP..."); 
 }
